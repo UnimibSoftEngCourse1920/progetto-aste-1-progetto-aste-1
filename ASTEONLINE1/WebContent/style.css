@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://www.lezionieuropa.it/wp-content/uploads/2019/11/Asta-Online-al-Centesimo-e-Aste-al-Ribasso-cosa-sono-e-come-funzionano.jpg");
+}
+.container {
+    display: flex;
+    margin: 10px;
+}
+
+.astabox {
+    padding: 20px;
+    width: 200px;
+    background-color: white;
+    margin: 10px;
+    display: inline-block;
+}
+
+.puntabutton {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 90%;
+}
+
+img {
+    max-width:100px;
+    max-height:100px;
+    width:auto;
+    height:auto;
+}
+
+.riquadro {
+    padding: 40px;
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+    display: inline-block;
+}
+
+.riquadroDati {
+    padding: 100px;
+    width: 800px;
+    background-color: white;
+    margin: 10px;
+    display: inline-block;
+}
