@@ -1,0 +1,6 @@
+projectKey=Asteonline:Asteonline
+serverUrl=http://localhost:9000
+serverVersion=6.6.0.32724
+dashboardUrl=http://localhost:9000/dashboard/index/Asteonline:Asteonline
+ceTaskId=AXBEJQsW3lbjV7n6xCdq
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXBEJQsW3lbjV7n6xCdq
